@@ -13,6 +13,5 @@ Technologies Used :
 HTML5
 CSS3
 <img width="1893" height="911" alt="Amazon clone 1" src="https://github.com/user-attachments/assets/22fdca0a-a0f6-42cc-aef8-12922a7e3dce" />
-<img width="1851" height="888" alt="Amazon clone 2" src="https://github.com/user-attachments/assets/d36a37a9-608f-44bc-be1f-f4fcafd24341" />
 
 
