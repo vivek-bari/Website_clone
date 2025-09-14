@@ -10,8 +10,13 @@ Footer with information links and 'Back to Top' button.
 Clean, modular code for easy modification
 
 Technologies Used :
-HTML5
+HTML5,
 CSS3
+
+
+
+
+
 
 
 
